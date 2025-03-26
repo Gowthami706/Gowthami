@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science and engineering student
+I'm currently learning computer science and engineering
 
 
 ## 🌐 Socials:
